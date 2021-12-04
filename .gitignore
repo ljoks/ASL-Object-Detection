@@ -1,0 +1,11 @@
+/venv
+test/
+train/
+valid/
+ASL-dataset.zip
+fixNvPe.py
+data.yaml
+README.*.txt
+asl.py
+!yolov5/runs/train/
+!yolov5/runs/train/*_results*/*.jpg
